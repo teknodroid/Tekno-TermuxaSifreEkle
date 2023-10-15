@@ -1,12 +1,12 @@
-# termux-sifre-ekle
+# Tekno-TermuxaSifreEkle
 Bu kod sayesinde termuxa şifre ekleyebilirsiniz 
 
 KODLAR
 
 pkg install git python
 
-git clone https://github.com/teknodroid/put-password-on-termux
+git clone https://github.com/teknodroid/Tekno-TermuxaSifreEkle
 
-cd put-password-on-termux
+cd Tekno-TermuxaSifreEkle
 
 bash setup.sh
