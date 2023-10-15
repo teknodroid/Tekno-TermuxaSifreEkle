@@ -1,4 +1,4 @@
-# put-password-on-termux
+# termux-sifre-ekle
 Bu kod sayesinde termuxa şifre ekleyebilirsiniz 
 
 KODLAR
